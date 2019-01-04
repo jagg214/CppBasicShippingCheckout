@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1546394795 source:c:\users\jagg2\desktop\coding\shippingcheckout\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Package.h"
+	"Box.h"
+	"Envelope.h"
+	"LargeEnvelope.h"
+
+1546572686 c:\users\jagg2\desktop\coding\shippingcheckout\package.h
+	<string>
+
+1546572686 source:c:\users\jagg2\desktop\coding\shippingcheckout\package.cpp
+	"Package.h"
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+
+1546572750 source:c:\users\jagg2\desktop\coding\shippingcheckout\box.cpp
+	"Box.h"
+	<iostream>
+	<fstream>
+
+1546404670 c:\users\jagg2\desktop\coding\shippingcheckout\box.h
+	"Package.h"
+
+1546572750 source:c:\users\jagg2\desktop\coding\shippingcheckout\envelope.cpp
+	"Envelope.h"
+	<iostream>
+	<fstream>
+
+1546404670 c:\users\jagg2\desktop\coding\shippingcheckout\envelope.h
+	"Package.h"
+
+1546572774 source:c:\users\jagg2\desktop\coding\shippingcheckout\largeenvelope.cpp
+	"LargeEnvelope.h"
+	<iostream>
+	<fstream>
+
+1546404670 c:\users\jagg2\desktop\coding\shippingcheckout\largeenvelope.h
+	"Package.h"
+
